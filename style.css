@@ -1,0 +1,21 @@
+.container{
+    background-color: blueviolet;
+    font-size: xx-large;
+    font-family: monospace;
+    
+}
+
+.Title{
+    color: crimson;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.button{
+    color: crimson;
+    background-color: cornflowerblue;
+    font-size: xx-large;
+    font-family: sans-serif;
+    padding: 20px;
+    margin: 20px;
+}
