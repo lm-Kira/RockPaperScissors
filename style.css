@@ -1,7 +1,4 @@
 .container{
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-image: url("1.webp");
     background-color: blueviolet;
     font-size: xx-large;
     font-family: monospace;
@@ -22,3 +19,4 @@
     padding: 20px;
     margin: 20px;
 }
+
